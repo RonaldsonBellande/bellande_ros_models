@@ -2,4 +2,4 @@
 
 ## - Functionality is to use Bellande Models
 
-## - Use Website Framework to do functionalities
+## - Use organization to download framework and model for functionalities like the api
