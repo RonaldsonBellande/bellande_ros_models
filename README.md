@@ -4,11 +4,12 @@
 - **ROS1**: [![ROS1 Docker Image](https://img.shields.io/docker/pulls/ronaldsonbellande/bellande_robotic_environment_ros1)](https://hub.docker.com/r/ronaldsonbellande/bellande_robotic_environment_ros1)
 - **ROS2**: [![ROS2 Docker Image](https://img.shields.io/docker/pulls/ronaldsonbellande/bellande_robotic_environment_ros2)](https://hub.docker.com/r/ronaldsonbellande/bellande_robotic_environment_ros2)
 
-## 📋 The functionality revolves around effectively utilizing Bellande Models.
+## 🛠️ Leverage the organization's bellande framework to seamlessly download models and frameworks for functionalities like the API.
+- For accessing models developed by Bellande in the proprietary .Bellande format via online platforms, the prescribed method is strictly through utilization of the Bellande framework. This framework serves as the designated interface for interacting with and utilizing these models. For those seeking access to demo versions, an access key is required, which is provided as 'bellande-opensource-framework'. This key grants limited access to preview versions, allowing users to acquaint themselves with the capabilities of the models within the Bellande framework.
 
-## 🛠️ Leverage the organization's framework to seamlessly download models and frameworks for functionalities like the API.
+## 📋 .bellande Model Format
+- [![Bellande Model Format](https://img.shields.io/badge/Bellande%20MODEL%20FORMAT-.bellande%20Format-0099cc?style=for-the-badge)](https://github.com/Artificial-Intelligence-Computer-Vision/bellande_model_format)
 
-For online access to Bellande Models, the Bellande framework is the only way to get access to the models. For demo versions, the access key is "bellande-opensource-models".
 
 ## 🐳 Bellande Models
 - [![Bellande StepModel](https://img.shields.io/badge/Bellande%20MODEL-Bellande/Step-0099cc?style=for-the-badge)](https://github.com/Robotics-Sensors/bellande_robots_step_models)
