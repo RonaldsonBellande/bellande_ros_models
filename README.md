@@ -22,17 +22,11 @@
 - [![Bellande Model Format](https://img.shields.io/badge/Bellande%20MODEL%20FORMAT-.bellande%20Format-0099cc?style=for-the-badge)](https://github.com/Artificial-Intelligence-Computer-Vision/bellande_model_format)
 
 ## 🐳 Bellande Models
-<<<<<<< HEAD
 - [![Bellande Step Models](https://img.shields.io/badge/Bellande%20MODEL-Bellande%20Step%20Model-0099cc?style=for-the-badge)](https://github.com/Robotics-Sensors/bellande_robots_step_models)
 - [![Bellande Search Path Models](https://img.shields.io/badge/Bellande%20MODEL-Bellande%20Search%20Path%20Model-0099cc?style=for-the-badge)](https://github.com/Robotics-Sensors/bellande_search_path_models)
 - [![Bellande Alternate Path Creation Models ](https://img.shields.io/badge/Bellande%20API-Bellande%20Alternate%20Path%20Creation%20Model-0099cc?style=for-the-badge)](https://github.com/Robotics-Sensors/bellande_adaptive_alternate_path_creation_models)
 - [![Bellande Motion Probabilistic Models ](https://img.shields.io/badge/Bellande%20API-Bellande%20Motion%20Probabilistic-0099cc?style=for-the-badge)](https://github.com/Robotics-Sensors/bellande_motion_probabilistic_models)
-=======
-- [![Bellande StepModel](https://img.shields.io/badge/Bellande%20MODEL-Bellande/Step-0099cc?style=for-the-badge)](https://github.com/Robotics-Sensors/bellande_robots_step_models)
-- [![Bellande Search Path Model](https://img.shields.io/badge/Bellande%20MODEL-Bellande/Search%20Path-0099cc?style=for-the-badge)](https://github.com/Robotics-Sensors/bellande_search_path_models)
 
 ## 💨 Bellande Model Format API/Application & Bellande Framework
 - [![Bellande Model Format](https://img.shields.io/badge/Bellande%20Model%20Format-0099cc?style=for-the-badge)](https://github.com/Artificial-Intelligence-Computer-Vision/bellande_model_format)
 - [![Bellande Framework](https://img.shields.io/badge/Bellande%20Model%20Framework-0099cc?style=for-the-badge)](https://github.com/Artificial-Intelligence-Computer-Vision/bellande_model_framework)
-
->>>>>>> e56188141e70bb7a8e90595e5f40a8a68c82b896
